@@ -17,7 +17,7 @@ Install these in IDE:
 
 ---
 
-## ⚙️ [Issues with Adafruit_SSD1306? (AI)](https://github.com/peff74/ESP32-C3_OLED)
+## ⚙️ [Why not Adafruit_SSD1306? (AI Built)](https://github.com/peff74/ESP32-C3_OLED)
 
 | Feature | U8g2 | Adafruit_SSD1306 |
 |----------|------|------------------|
